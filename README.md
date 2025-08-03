@@ -1,6 +1,6 @@
 # How Interest Rates Reshape the Bond Market
 
-This is an interactive narrative visualization built using D3.js that explores how changes in interest rates (actions by the Federal Reserve) has impact the bond market over time.
+This is an interactive narrative visualization built using D3.js that explores how changes in interest rates (actions by the Federal Reserve) has impacted the bond market over time.
 
 ## 🔍 Project Summary
 
